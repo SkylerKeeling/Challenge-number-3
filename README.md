@@ -10,7 +10,7 @@ The application prompts the user for multiple inputs which produce a password. F
 
 ## Screenshot
 
-![alt text]https://github.com/SkylerKeeling/Challenge-number-3/blob/main/assets/Screen%20Shot%202023-05-23%20at%2010.36.32%20AM.png
+![alt text](https://github.com/SkylerKeeling/Challenge-number-3/blob/main/assets/Screen%20Shot%202023-05-23%20at%2010.36.32%20AM.png)
 
 ## Application link
 
